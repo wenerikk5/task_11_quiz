@@ -132,6 +132,6 @@ dmypy.json
 .idea
 
 # other
-.xlsx
-.sqlite3
-.sqlite
+*.xlsx
+*.sqlite3
+*.sqlite
